@@ -1,4 +1,4 @@
-# GHpage-parcel
+# GHpage-Parcel-React
 *création d'une github page avec les combo PARCEL.js, SASS et React*
 ## Technos
 
