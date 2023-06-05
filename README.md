@@ -1,5 +1,5 @@
 # GHpage-parcel
-*création d'une github page avec PARCEL.js et SASS*
+*création d'une github page avec les combo PARCEL.js, SASS et React*
 ## Technos
 
 ![](./doc/node.png)  ![](./doc/parcel.png)  ![](./doc/sass.png)

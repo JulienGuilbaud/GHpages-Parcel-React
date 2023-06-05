@@ -1,7 +1,7 @@
 {
-  "name": "ghpage-parcel",
+  "name": "ghpage-parcel-react",
   "version": "1.0.0",
-  "description": "création d'une github page avec parcel.js",
+  "description": "création d'une github page avec le combo parcel.js et React",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -13,10 +13,13 @@
   "license": "ISC",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.9.1",
-    "parcel": "^2.9.1"
+    "parcel": "^2.9.1",
+    "process": "^0.11.10"
   },
   "dependencies": {
     "gh-pages": "^5.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "reset-css": "^5.0.1",
     "sass": "^1.62.1"
   }
