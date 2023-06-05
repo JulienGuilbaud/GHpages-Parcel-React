@@ -2,7 +2,7 @@
 *création d'une github page avec les combo PARCEL.js, SASS et React*
 ## Technos
 
-![](./doc/node.png)  ![](./doc/parcel.png)  ![](./doc/sass.png)
+![](./doc/node.png)  ![](./doc/parcel.png)  ![](./doc/sass.png) ![](./doc/react.png)
 
 ## Procédure
 
